@@ -1,0 +1,4484 @@
+{
+  "collection1": [
+    {
+      "Rank": "#1",
+      "Name": "Bill Gates",
+      "Net Worth": "$79.2 B",
+      "Source": "Microsoft",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#2",
+      "Name": "Carlos Slim Helu",
+      "Net Worth": "$77.1 B",
+      "Source": "telecom",
+      "Country of Citizenship": "Mexico",
+      "Age": "75"
+    },
+    {
+      "Rank": "#3",
+      "Name": "Warren Buffett",
+      "Net Worth": "$72.7 B",
+      "Source": "Berkshire Hathaway",
+      "Country of Citizenship": "United States",
+      "Age": "85"
+    },
+    {
+      "Rank": "#4",
+      "Name": "Amancio Ortega",
+      "Net Worth": "$64.5 B",
+      "Source": "Zara",
+      "Country of Citizenship": "Spain",
+      "Age": "79"
+    },
+    {
+      "Rank": "#5",
+      "Name": "Larry Ellison",
+      "Net Worth": "$54.3 B",
+      "Source": "Oracle",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#6",
+      "Name": "Charles Koch",
+      "Net Worth": "$42.9 B",
+      "Source": "diversified",
+      "Country of Citizenship": "United States",
+      "Age": "80"
+    },
+    {
+      "Rank": "#6",
+      "Name": "David Koch",
+      "Net Worth": "$42.9 B",
+      "Source": "diversified",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#8",
+      "Name": "Christy Walton",
+      "Net Worth": "$41.7 B",
+      "Source": "Wal-Mart",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#9",
+      "Name": "Jim Walton",
+      "Net Worth": "$40.6 B",
+      "Source": "Wal-Mart",
+      "Country of Citizenship": "United States",
+      "Age": "67"
+    },
+    {
+      "Rank": "#10",
+      "Name": "Liliane Bettencourt",
+      "Net Worth": "$40.1 B",
+      "Source": "L'Oreal",
+      "Country of Citizenship": "France",
+      "Age": "93"
+    },
+    {
+      "Rank": "#11",
+      "Name": "Alice Walton",
+      "Net Worth": "$39.4 B",
+      "Source": "Wal-Mart",
+      "Country of Citizenship": "United States",
+      "Age": "66"
+    },
+    {
+      "Rank": "#12",
+      "Name": "S. Robson Walton",
+      "Net Worth": "$39.1 B",
+      "Source": "Wal-Mart",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#13",
+      "Name": "Bernard Arnault",
+      "Net Worth": "$37.2 B",
+      "Source": "LVMH",
+      "Country of Citizenship": "France",
+      "Age": "66"
+    },
+    {
+      "Rank": "#14",
+      "Name": "Michael Bloomberg",
+      "Net Worth": "$35.5 B",
+      "Source": "Bloomberg LP",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#15",
+      "Name": "Jeff Bezos",
+      "Net Worth": "$34.8 B",
+      "Source": "Amazon.com",
+      "Country of Citizenship": "United States",
+      "Age": "51"
+    },
+    {
+      "Rank": "#16",
+      "Name": "Mark Zuckerberg",
+      "Net Worth": "$33.4 B",
+      "Source": "Facebook",
+      "Country of Citizenship": "United States",
+      "Age": "31"
+    },
+    {
+      "Rank": "#17",
+      "Name": "Li Ka-shing",
+      "Net Worth": "$33.3 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "87"
+    },
+    {
+      "Rank": "#18",
+      "Name": "Sheldon Adelson",
+      "Net Worth": "$31.4 B",
+      "Source": "casinos",
+      "Country of Citizenship": "United States",
+      "Age": "82"
+    },
+    {
+      "Rank": "#19",
+      "Name": "Larry Page",
+      "Net Worth": "$29.7 B",
+      "Source": "Google",
+      "Country of Citizenship": "United States",
+      "Age": "42"
+    },
+    {
+      "Rank": "#20",
+      "Name": "Sergey Brin",
+      "Net Worth": "$29.2 B",
+      "Source": "Google",
+      "Country of Citizenship": "United States",
+      "Age": "42"
+    },
+    {
+      "Rank": "#21",
+      "Name": "Georg Schaeffler",
+      "Net Worth": "$26.9 B",
+      "Source": "ball bearings",
+      "Country of Citizenship": "Germany",
+      "Age": "51"
+    },
+    {
+      "Rank": "#22",
+      "Name": "Forrest Mars, Jr.",
+      "Net Worth": "$26.6 B",
+      "Source": "candy",
+      "Country of Citizenship": "United States",
+      "Age": "84"
+    },
+    {
+      "Rank": "#22",
+      "Name": "Jacqueline Mars",
+      "Net Worth": "$26.6 B",
+      "Source": "candy",
+      "Country of Citizenship": "United States",
+      "Age": "76"
+    },
+    {
+      "Rank": "#22",
+      "Name": "John Mars",
+      "Net Worth": "$26.6 B",
+      "Source": "candy",
+      "Country of Citizenship": "United States",
+      "Age": "79"
+    },
+    {
+      "Rank": "#25",
+      "Name": "David Thomson",
+      "Net Worth": "$25.5 B",
+      "Source": "media",
+      "Country of Citizenship": "Canada",
+      "Age": "58"
+    },
+    {
+      "Rank": "#26",
+      "Name": "Jorge Paulo Lemann",
+      "Net Worth": "$25 B",
+      "Source": "beer",
+      "Country of Citizenship": "Brazil",
+      "Age": "76"
+    },
+    {
+      "Rank": "#27",
+      "Name": "Lee Shau Kee",
+      "Net Worth": "$24.8 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "87"
+    },
+    {
+      "Rank": "#28",
+      "Name": "Stefan Persson",
+      "Net Worth": "$24.5 B",
+      "Source": "H&M",
+      "Country of Citizenship": "Sweden",
+      "Age": "68"
+    },
+    {
+      "Rank": "#29",
+      "Name": "George Soros",
+      "Net Worth": "$24.2 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "85"
+    },
+    {
+      "Rank": "#29",
+      "Name": "Wang Jianlin",
+      "Net Worth": "$24.2 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "61"
+    },
+    {
+      "Rank": "#31",
+      "Name": "Carl Icahn",
+      "Net Worth": "$23.5 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "79"
+    },
+    {
+      "Rank": "#32",
+      "Name": "Maria Franca Fissolo",
+      "Net Worth": "$23.4 B",
+      "Source": "Nutella, chocolates",
+      "Country of Citizenship": "Italy",
+      "Age": "97"
+    },
+    {
+      "Rank": "#33",
+      "Name": "Jack Ma",
+      "Net Worth": "$22.7 B",
+      "Source": "e-commerce",
+      "Country of Citizenship": "China",
+      "Age": "51"
+    },
+    {
+      "Rank": "#34",
+      "Name": "Prince Alwaleed Bin Talal Alsaud",
+      "Net Worth": "$22.6 B",
+      "Source": "investments",
+      "Country of Citizenship": "Saudi Arabia",
+      "Age": "60"
+    },
+    {
+      "Rank": "#35",
+      "Name": "Steve Ballmer",
+      "Net Worth": "$21.5 B",
+      "Source": "Microsoft",
+      "Country of Citizenship": "United States",
+      "Age": "59"
+    },
+    {
+      "Rank": "#35",
+      "Name": "Phil Knight",
+      "Net Worth": "$21.5 B",
+      "Source": "Nike",
+      "Country of Citizenship": "United States",
+      "Age": "77"
+    },
+    {
+      "Rank": "#37",
+      "Name": "Beate Heister & Karl Albrecht Jr.",
+      "Net Worth": "$21.3 B",
+      "Source": "supermarkets",
+      "Country of Citizenship": "Germany",
+      "Age": "-"
+    },
+    {
+      "Rank": "#38",
+      "Name": "Li Hejun",
+      "Net Worth": "$21.1 B",
+      "Source": "solar power equipment",
+      "Country of Citizenship": "China",
+      "Age": "48"
+    },
+    {
+      "Rank": "#39",
+      "Name": "Mukesh Ambani",
+      "Net Worth": "$21 B",
+      "Source": "petrochemicals, oil & gas",
+      "Country of Citizenship": "India",
+      "Age": "58"
+    },
+    {
+      "Rank": "#40",
+      "Name": "Leonardo Del Vecchio",
+      "Net Worth": "$20.4 B",
+      "Source": "eyeglasses",
+      "Country of Citizenship": "Italy",
+      "Age": "80"
+    },
+    {
+      "Rank": "#41",
+      "Name": "Len Blavatnik",
+      "Net Worth": "$20.2 B",
+      "Source": "diversified",
+      "Country of Citizenship": "United States",
+      "Age": "58"
+    },
+    {
+      "Rank": "#41",
+      "Name": "Tadashi Yanai",
+      "Net Worth": "$20.2 B",
+      "Source": "retail",
+      "Country of Citizenship": "Japan",
+      "Age": "66"
+    },
+    {
+      "Rank": "#43",
+      "Name": "Charles Ergen",
+      "Net Worth": "$20.1 B",
+      "Source": "Dish Network",
+      "Country of Citizenship": "United States",
+      "Age": "62"
+    },
+    {
+      "Rank": "#44",
+      "Name": "Dilip Shanghvi",
+      "Net Worth": "$20 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "India",
+      "Age": "60"
+    },
+    {
+      "Rank": "#45",
+      "Name": "Laurene Powell Jobs",
+      "Net Worth": "$19.5 B",
+      "Source": "Apple, Disney",
+      "Country of Citizenship": "United States",
+      "Age": "52"
+    },
+    {
+      "Rank": "#46",
+      "Name": "Dieter Schwarz",
+      "Net Worth": "$19.4 B",
+      "Source": "retail",
+      "Country of Citizenship": "Germany",
+      "Age": "76"
+    },
+    {
+      "Rank": "#47",
+      "Name": "Michael Dell",
+      "Net Worth": "$19.2 B",
+      "Source": "Dell",
+      "Country of Citizenship": "United States",
+      "Age": "50"
+    },
+    {
+      "Rank": "#48",
+      "Name": "Azim Premji",
+      "Net Worth": "$19.1 B",
+      "Source": "software",
+      "Country of Citizenship": "India",
+      "Age": "70"
+    },
+    {
+      "Rank": "#49",
+      "Name": "Theo Albrecht, Jr.",
+      "Net Worth": "$19 B",
+      "Source": "Aldi, Trader Joe's",
+      "Country of Citizenship": "Germany",
+      "Age": "64"
+    },
+    {
+      "Rank": "#50",
+      "Name": "Michael Otto",
+      "Net Worth": "$18.1 B",
+      "Source": "retail, real estate",
+      "Country of Citizenship": "Germany",
+      "Age": "72"
+    },
+    {
+      "Rank": "#51",
+      "Name": "Paul Allen",
+      "Net Worth": "$17.5 B",
+      "Source": "Microsoft, investments",
+      "Country of Citizenship": "United States",
+      "Age": "62"
+    },
+    {
+      "Rank": "#52",
+      "Name": "Joseph Safra",
+      "Net Worth": "$17.3 B",
+      "Source": "banking",
+      "Country of Citizenship": "Brazil",
+      "Age": "76"
+    },
+    {
+      "Rank": "#53",
+      "Name": "Anne Cox Chambers",
+      "Net Worth": "$17 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "95"
+    },
+    {
+      "Rank": "#54",
+      "Name": "Susanne Klatten",
+      "Net Worth": "$16.8 B",
+      "Source": "BMW, pharmaceuticals",
+      "Country of Citizenship": "Germany",
+      "Age": "53"
+    },
+    {
+      "Rank": "#55",
+      "Name": "Pallonji Mistry",
+      "Net Worth": "$16.3 B",
+      "Source": "construction",
+      "Country of Citizenship": "Ireland",
+      "Age": "86"
+    },
+    {
+      "Rank": "#56",
+      "Name": "Ma Huateng",
+      "Net Worth": "$16.1 B",
+      "Source": "internet media",
+      "Country of Citizenship": "China",
+      "Age": "44"
+    },
+    {
+      "Rank": "#57",
+      "Name": "Patrick Drahi",
+      "Net Worth": "$16 B",
+      "Source": "Telecom",
+      "Country of Citizenship": "France",
+      "Age": "51"
+    },
+    {
+      "Rank": "#58",
+      "Name": "Thomas & Raymond Kwok",
+      "Net Worth": "$15.9 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "-"
+    },
+    {
+      "Rank": "#59",
+      "Name": "Stefan Quandt",
+      "Net Worth": "$15.6 B",
+      "Source": "BMW",
+      "Country of Citizenship": "Germany",
+      "Age": "49"
+    },
+    {
+      "Rank": "#60",
+      "Name": "Ray Dalio",
+      "Net Worth": "$15.4 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "66"
+    },
+    {
+      "Rank": "#60",
+      "Name": "Vladimir Potanin",
+      "Net Worth": "$15.4 B",
+      "Source": "metals",
+      "Country of Citizenship": "Russia",
+      "Age": "54"
+    },
+    {
+      "Rank": "#62",
+      "Name": "Serge Dassault",
+      "Net Worth": "$15.3 B",
+      "Source": "aviation",
+      "Country of Citizenship": "France",
+      "Age": "90"
+    },
+    {
+      "Rank": "#62",
+      "Name": "Robin Li",
+      "Net Worth": "$15.3 B",
+      "Source": "internet search",
+      "Country of Citizenship": "China",
+      "Age": "46"
+    },
+    {
+      "Rank": "#64",
+      "Name": "Donald Bren",
+      "Net Worth": "$15.2 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "83"
+    },
+    {
+      "Rank": "#65",
+      "Name": "Francois Pinault",
+      "Net Worth": "$14.9 B",
+      "Source": "retail",
+      "Country of Citizenship": "France",
+      "Age": "79"
+    },
+    {
+      "Rank": "#66",
+      "Name": "Shiv Nadar",
+      "Net Worth": "$14.8 B",
+      "Source": "information technology",
+      "Country of Citizenship": "India",
+      "Age": "70"
+    },
+    {
+      "Rank": "#67",
+      "Name": "Aliko Dangote",
+      "Net Worth": "$14.7 B",
+      "Source": "cement, sugar, flour",
+      "Country of Citizenship": "Nigeria",
+      "Age": "58"
+    },
+    {
+      "Rank": "#68",
+      "Name": "Mikhail Fridman",
+      "Net Worth": "$14.6 B",
+      "Source": "oil, banking, telecom",
+      "Country of Citizenship": "Russia",
+      "Age": "51"
+    },
+    {
+      "Rank": "#69",
+      "Name": "Hinduja Brothers",
+      "Net Worth": "$14.5 B",
+      "Source": "diversified",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "-"
+    },
+    {
+      "Rank": "#69",
+      "Name": "Ronald Perelman",
+      "Net Worth": "$14.5 B",
+      "Source": "leveraged buyouts",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#71",
+      "Name": "Cheng Yu-tung",
+      "Net Worth": "$14.4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "90"
+    },
+    {
+      "Rank": "#71",
+      "Name": "Alisher Usmanov",
+      "Net Worth": "$14.4 B",
+      "Source": "steel & mining, telecom, investments",
+      "Country of Citizenship": "Russia",
+      "Age": "62"
+    },
+    {
+      "Rank": "#73",
+      "Name": "Henry Sy",
+      "Net Worth": "$14.2 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Philippines",
+      "Age": "91"
+    },
+    {
+      "Rank": "#73",
+      "Name": "Viktor Vekselberg",
+      "Net Worth": "$14.2 B",
+      "Source": "metals, energy",
+      "Country of Citizenship": "Russia",
+      "Age": "58"
+    },
+    {
+      "Rank": "#75",
+      "Name": "Masayoshi Son",
+      "Net Worth": "$14.1 B",
+      "Source": "internet, telecom",
+      "Country of Citizenship": "Japan",
+      "Age": "58"
+    },
+    {
+      "Rank": "#76",
+      "Name": "James Simons",
+      "Net Worth": "$14 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "77"
+    },
+    {
+      "Rank": "#77",
+      "Name": "German Larrea Mota Velasco",
+      "Net Worth": "$13.9 B",
+      "Source": "mining",
+      "Country of Citizenship": "Mexico",
+      "Age": "62"
+    },
+    {
+      "Rank": "#77",
+      "Name": "Rupert Murdoch",
+      "Net Worth": "$13.9 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "84"
+    },
+    {
+      "Rank": "#77",
+      "Name": "Johanna Quandt",
+      "Net Worth": "$13.9 B",
+      "Source": "BMW",
+      "Country of Citizenship": "Germany",
+      "Age": "89"
+    },
+    {
+      "Rank": "#80",
+      "Name": "David & Simon Reuben",
+      "Net Worth": "$13.7 B",
+      "Source": "investments, real estate",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "72"
+    },
+    {
+      "Rank": "#81",
+      "Name": "Dhanin Chearavanont",
+      "Net Worth": "$13.6 B",
+      "Source": "food",
+      "Country of Citizenship": "Thailand",
+      "Age": "76"
+    },
+    {
+      "Rank": "#82",
+      "Name": "Iris Fontbona",
+      "Net Worth": "$13.5 B",
+      "Source": "mining",
+      "Country of Citizenship": "Chile",
+      "Age": "72"
+    },
+    {
+      "Rank": "#82",
+      "Name": "Lui Che Woo",
+      "Net Worth": "$13.5 B",
+      "Source": "casinos",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "85"
+    },
+    {
+      "Rank": "#82",
+      "Name": "Lakshmi Mittal",
+      "Net Worth": "$13.5 B",
+      "Source": "steel",
+      "Country of Citizenship": "India",
+      "Age": "65"
+    },
+    {
+      "Rank": "#85",
+      "Name": "Abigail Johnson",
+      "Net Worth": "$13.4 B",
+      "Source": "money management",
+      "Country of Citizenship": "United States",
+      "Age": "53"
+    },
+    {
+      "Rank": "#85",
+      "Name": "Luis Carlos Sarmiento",
+      "Net Worth": "$13.4 B",
+      "Source": "banking",
+      "Country of Citizenship": "Colombia",
+      "Age": "82"
+    },
+    {
+      "Rank": "#87",
+      "Name": "Lei Jun",
+      "Net Worth": "$13.2 B",
+      "Source": "smartphones",
+      "Country of Citizenship": "China",
+      "Age": "45"
+    },
+    {
+      "Rank": "#87",
+      "Name": "Charoen Sirivadhanabhakdi",
+      "Net Worth": "$13.2 B",
+      "Source": "beverages",
+      "Country of Citizenship": "Thailand",
+      "Age": "71"
+    },
+    {
+      "Rank": "#89",
+      "Name": "Alexey Mordashov",
+      "Net Worth": "$13 B",
+      "Source": "steel, investments",
+      "Country of Citizenship": "Russia",
+      "Age": "50"
+    },
+    {
+      "Rank": "#89",
+      "Name": "Marcel Herrmann Telles",
+      "Net Worth": "$13 B",
+      "Source": "beer",
+      "Country of Citizenship": "Brazil",
+      "Age": "65"
+    },
+    {
+      "Rank": "#91",
+      "Name": "Gerald Cavendish Grosvenor",
+      "Net Worth": "$12.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "63"
+    },
+    {
+      "Rank": "#92",
+      "Name": "Hans Rausing",
+      "Net Worth": "$12.5 B",
+      "Source": "packaging",
+      "Country of Citizenship": "Sweden",
+      "Age": "89"
+    },
+    {
+      "Rank": "#92",
+      "Name": "Jack Taylor",
+      "Net Worth": "$12.5 B",
+      "Source": "Enterprise Rent-A-Car",
+      "Country of Citizenship": "United States",
+      "Age": "93"
+    },
+    {
+      "Rank": "#94",
+      "Name": "Charles Butt",
+      "Net Worth": "$12.3 B",
+      "Source": "supermarkets",
+      "Country of Citizenship": "United States",
+      "Age": "77"
+    },
+    {
+      "Rank": "#94",
+      "Name": "Gina Rinehart",
+      "Net Worth": "$12.3 B",
+      "Source": "mining",
+      "Country of Citizenship": "Australia",
+      "Age": "61"
+    },
+    {
+      "Rank": "#96",
+      "Name": "Vagit Alekperov",
+      "Net Worth": "$12.2 B",
+      "Source": "oil",
+      "Country of Citizenship": "Russia",
+      "Age": "65"
+    },
+    {
+      "Rank": "#96",
+      "Name": "Harold Hamm",
+      "Net Worth": "$12.2 B",
+      "Source": "oil & gas",
+      "Country of Citizenship": "United States",
+      "Age": "69"
+    },
+    {
+      "Rank": "#96",
+      "Name": "Patrick Soon-Shiong",
+      "Net Worth": "$12.2 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "United States",
+      "Age": "63"
+    },
+    {
+      "Rank": "#99",
+      "Name": "Stefano Pessina",
+      "Net Worth": "$12.1 B",
+      "Source": "drugstores",
+      "Country of Citizenship": "Italy",
+      "Age": "74"
+    },
+    {
+      "Rank": "#100",
+      "Name": "Richard Kinder",
+      "Net Worth": "$12 B",
+      "Source": "pipelines",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#100",
+      "Name": "Elon Musk",
+      "Net Worth": "$12 B",
+      "Source": "Tesla Motors",
+      "Country of Citizenship": "United States",
+      "Age": "44"
+    },
+    {
+      "Rank": "#100",
+      "Name": "Stephen Schwarzman",
+      "Net Worth": "$12 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "68"
+    },
+    {
+      "Rank": "#103",
+      "Name": "Klaus-Michael Kuehne",
+      "Net Worth": "$11.9 B",
+      "Source": "shipping",
+      "Country of Citizenship": "Germany",
+      "Age": "78"
+    },
+    {
+      "Rank": "#104",
+      "Name": "Philip Anschutz",
+      "Net Worth": "$11.8 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#105",
+      "Name": "Andrew Beal",
+      "Net Worth": "$11.7 B",
+      "Source": "banks, real estate",
+      "Country of Citizenship": "United States",
+      "Age": "62"
+    },
+    {
+      "Rank": "#105",
+      "Name": "Leonid Mikhelson",
+      "Net Worth": "$11.7 B",
+      "Source": "gas, chemicals",
+      "Country of Citizenship": "Russia",
+      "Age": "60"
+    },
+    {
+      "Rank": "#107",
+      "Name": "Charlene de Carvalho-Heineken",
+      "Net Worth": "$11.6 B",
+      "Source": "Heineken",
+      "Country of Citizenship": "Netherlands",
+      "Age": "61"
+    },
+    {
+      "Rank": "#107",
+      "Name": "Vladimir Lisin",
+      "Net Worth": "$11.6 B",
+      "Source": "steel, transport",
+      "Country of Citizenship": "Russia",
+      "Age": "59"
+    },
+    {
+      "Rank": "#109",
+      "Name": "Steve Cohen",
+      "Net Worth": "$11.4 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "59"
+    },
+    {
+      "Rank": "#110",
+      "Name": "Robert Kuok",
+      "Net Worth": "$11.3 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Malaysia",
+      "Age": "92"
+    },
+    {
+      "Rank": "#110",
+      "Name": "Lee Kun-Hee",
+      "Net Worth": "$11.3 B",
+      "Source": "electronics/insurance",
+      "Country of Citizenship": "South Korea",
+      "Age": "73"
+    },
+    {
+      "Rank": "#110",
+      "Name": "Carlos Alberto Sicupira",
+      "Net Worth": "$11.3 B",
+      "Source": "beer",
+      "Country of Citizenship": "Brazil",
+      "Age": "67"
+    },
+    {
+      "Rank": "#113",
+      "Name": "John Paulson",
+      "Net Worth": "$11.2 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "59"
+    },
+    {
+      "Rank": "#114",
+      "Name": "Joseph Lau",
+      "Net Worth": "$10.9 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "64"
+    },
+    {
+      "Rank": "#114",
+      "Name": "Thomas Peterffy",
+      "Net Worth": "$10.9 B",
+      "Source": "discount brokerage",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#116",
+      "Name": "Mohammed Al Amoudi",
+      "Net Worth": "$10.8 B",
+      "Source": "oil, diversified",
+      "Country of Citizenship": "Saudi Arabia",
+      "Age": "69"
+    },
+    {
+      "Rank": "#116",
+      "Name": "Dietrich Mateschitz",
+      "Net Worth": "$10.8 B",
+      "Source": "Red Bull",
+      "Country of Citizenship": "Austria",
+      "Age": "71"
+    },
+    {
+      "Rank": "#118",
+      "Name": "Hank & Doug Meijer",
+      "Net Worth": "$10.7 B",
+      "Source": "supermarkets",
+      "Country of Citizenship": "United States",
+      "Age": "-"
+    },
+    {
+      "Rank": "#118",
+      "Name": "Gennady Timchenko",
+      "Net Worth": "$10.7 B",
+      "Source": "oil & gas",
+      "Country of Citizenship": "Russia",
+      "Age": "63"
+    },
+    {
+      "Rank": "#120",
+      "Name": "John Fredriksen",
+      "Net Worth": "$10.5 B",
+      "Source": "shipping",
+      "Country of Citizenship": "Cyprus",
+      "Age": "70"
+    },
+    {
+      "Rank": "#121",
+      "Name": "Alberto Bailleres Gonzalez",
+      "Net Worth": "$10.4 B",
+      "Source": "mining",
+      "Country of Citizenship": "Mexico",
+      "Age": "84"
+    },
+    {
+      "Rank": "#121",
+      "Name": "Massimiliana Landini Aleotti",
+      "Net Worth": "$10.4 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "Italy",
+      "Age": "72"
+    },
+    {
+      "Rank": "#121",
+      "Name": "David Tepper",
+      "Net Worth": "$10.4 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "58"
+    },
+    {
+      "Rank": "#124",
+      "Name": "Zong Qinghou",
+      "Net Worth": "$10.3 B",
+      "Source": "beverages",
+      "Country of Citizenship": "China",
+      "Age": "70"
+    },
+    {
+      "Rank": "#125",
+      "Name": "Pierre Castel",
+      "Net Worth": "$9.9 B",
+      "Source": "wine",
+      "Country of Citizenship": "France",
+      "Age": "89"
+    },
+    {
+      "Rank": "#125",
+      "Name": "He Xiangjian",
+      "Net Worth": "$9.9 B",
+      "Source": "home appliances",
+      "Country of Citizenship": "China",
+      "Age": "73"
+    },
+    {
+      "Rank": "#125",
+      "Name": "Mikhail Prokhorov",
+      "Net Worth": "$9.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "Russia",
+      "Age": "50"
+    },
+    {
+      "Rank": "#125",
+      "Name": "Wang Wenyin",
+      "Net Worth": "$9.9 B",
+      "Source": "mining, copper products",
+      "Country of Citizenship": "China",
+      "Age": "47"
+    },
+    {
+      "Rank": "#129",
+      "Name": "Ananda Krishnan",
+      "Net Worth": "$9.7 B",
+      "Source": "telecom",
+      "Country of Citizenship": "Malaysia",
+      "Age": "77"
+    },
+    {
+      "Rank": "#129",
+      "Name": "Kjeld Kirk Kristiansen",
+      "Net Worth": "$9.7 B",
+      "Source": "Lego",
+      "Country of Citizenship": "Denmark",
+      "Age": "67"
+    },
+    {
+      "Rank": "#131",
+      "Name": "Robert & Philip Ng",
+      "Net Worth": "$9.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Singapore",
+      "Age": "-"
+    },
+    {
+      "Rank": "#131",
+      "Name": "Galen Weston",
+      "Net Worth": "$9.6 B",
+      "Source": "retail",
+      "Country of Citizenship": "Canada",
+      "Age": "75"
+    },
+    {
+      "Rank": "#133",
+      "Name": "German Khan",
+      "Net Worth": "$9.5 B",
+      "Source": "banking, telecom, retail",
+      "Country of Citizenship": "Russia",
+      "Age": "54"
+    },
+    {
+      "Rank": "#133",
+      "Name": "Alain Wertheimer",
+      "Net Worth": "$9.5 B",
+      "Source": "Chanel",
+      "Country of Citizenship": "France",
+      "Age": "67"
+    },
+    {
+      "Rank": "#133",
+      "Name": "Gerard Wertheimer",
+      "Net Worth": "$9.5 B",
+      "Source": "Chanel",
+      "Country of Citizenship": "France",
+      "Age": "64"
+    },
+    {
+      "Rank": "#136",
+      "Name": "Xavier Niel",
+      "Net Worth": "$9.3 B",
+      "Source": "internet, telecom",
+      "Country of Citizenship": "France",
+      "Age": "48"
+    },
+    {
+      "Rank": "#137",
+      "Name": "Roman Abramovich",
+      "Net Worth": "$9.1 B",
+      "Source": "steel, investments",
+      "Country of Citizenship": "Russia",
+      "Age": "49"
+    },
+    {
+      "Rank": "#137",
+      "Name": "Leonard Lauder",
+      "Net Worth": "$9.1 B",
+      "Source": "Estee Lauder",
+      "Country of Citizenship": "United States",
+      "Age": "82"
+    },
+    {
+      "Rank": "#137",
+      "Name": "Andrey Melnichenko",
+      "Net Worth": "$9.1 B",
+      "Source": "coal, fertilizers",
+      "Country of Citizenship": "Russia",
+      "Age": "43"
+    },
+    {
+      "Rank": "#137",
+      "Name": "Hasso Plattner",
+      "Net Worth": "$9.1 B",
+      "Source": "software",
+      "Country of Citizenship": "Germany",
+      "Age": "71"
+    },
+    {
+      "Rank": "#137",
+      "Name": "Eric Schmidt",
+      "Net Worth": "$9.1 B",
+      "Source": "Google",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#142",
+      "Name": "Kumar Birla",
+      "Net Worth": "$9 B",
+      "Source": "commodities",
+      "Country of Citizenship": "India",
+      "Age": "48"
+    },
+    {
+      "Rank": "#142",
+      "Name": "R. Budi Hartono",
+      "Net Worth": "$9 B",
+      "Source": "banking, tobacco",
+      "Country of Citizenship": "Indonesia",
+      "Age": "74"
+    },
+    {
+      "Rank": "#142",
+      "Name": "George Kaiser",
+      "Net Worth": "$9 B",
+      "Source": "oil & gas, banking",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#142",
+      "Name": "John Menard, Jr.",
+      "Net Worth": "$9 B",
+      "Source": "retail",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#142",
+      "Name": "Samuel Newhouse, Jr.",
+      "Net Worth": "$9 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "87"
+    },
+    {
+      "Rank": "#147",
+      "Name": "Tsai Eng-Meng",
+      "Net Worth": "$8.9 B",
+      "Source": "food, beverages",
+      "Country of Citizenship": "Taiwan",
+      "Age": "58"
+    },
+    {
+      "Rank": "#147",
+      "Name": "Wei Jianjun",
+      "Net Worth": "$8.9 B",
+      "Source": "automobiles",
+      "Country of Citizenship": "China",
+      "Age": "51"
+    },
+    {
+      "Rank": "#149",
+      "Name": "Ernesto Bertarelli",
+      "Net Worth": "$8.8 B",
+      "Source": "biotech, investments",
+      "Country of Citizenship": "Switzerland",
+      "Age": "50"
+    },
+    {
+      "Rank": "#149",
+      "Name": "Carrie Perrodo",
+      "Net Worth": "$8.8 B",
+      "Source": "oil",
+      "Country of Citizenship": "France",
+      "Age": "64"
+    },
+    {
+      "Rank": "#151",
+      "Name": "Michael Hartono",
+      "Net Worth": "$8.7 B",
+      "Source": "tobacco, banking",
+      "Country of Citizenship": "Indonesia",
+      "Age": "76"
+    },
+    {
+      "Rank": "#151",
+      "Name": "Hiroshi Mikitani",
+      "Net Worth": "$8.7 B",
+      "Source": "online retailing",
+      "Country of Citizenship": "Japan",
+      "Age": "50"
+    },
+    {
+      "Rank": "#153",
+      "Name": "Pan Sutong",
+      "Net Worth": "$8.6 B",
+      "Source": "real estate, finance",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "52"
+    },
+    {
+      "Rank": "#153",
+      "Name": "Klaus Tschira",
+      "Net Worth": "$8.6 B",
+      "Source": "software",
+      "Country of Citizenship": "Germany",
+      "Age": "74"
+    },
+    {
+      "Rank": "#153",
+      "Name": "Peter Woo",
+      "Net Worth": "$8.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "69"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Jim Kennedy",
+      "Net Worth": "$8.5 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "67"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Eyal Ofer",
+      "Net Worth": "$8.5 B",
+      "Source": "real estate, shipping",
+      "Country of Citizenship": "Israel",
+      "Age": "65"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Blair Parry-Okeden",
+      "Net Worth": "$8.5 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Dmitry Rybolovlev",
+      "Net Worth": "$8.5 B",
+      "Source": "fertilizer",
+      "Country of Citizenship": "Russia",
+      "Age": "48"
+    },
+    {
+      "Rank": "#160",
+      "Name": "Petr Kellner",
+      "Net Worth": "$8.4 B",
+      "Source": "banking, insurance",
+      "Country of Citizenship": "Czech Republic",
+      "Age": "51"
+    },
+    {
+      "Rank": "#151",
+      "Name": "Michael Hartono",
+      "Net Worth": "$8.7 B",
+      "Source": "tobacco, banking",
+      "Country of Citizenship": "Indonesia",
+      "Age": "76"
+    },
+    {
+      "Rank": "#151",
+      "Name": "Hiroshi Mikitani",
+      "Net Worth": "$8.7 B",
+      "Source": "online retailing",
+      "Country of Citizenship": "Japan",
+      "Age": "50"
+    },
+    {
+      "Rank": "#153",
+      "Name": "Pan Sutong",
+      "Net Worth": "$8.6 B",
+      "Source": "real estate, finance",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "52"
+    },
+    {
+      "Rank": "#153",
+      "Name": "Klaus Tschira",
+      "Net Worth": "$8.6 B",
+      "Source": "software",
+      "Country of Citizenship": "Germany",
+      "Age": "74"
+    },
+    {
+      "Rank": "#153",
+      "Name": "Peter Woo",
+      "Net Worth": "$8.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "69"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Jim Kennedy",
+      "Net Worth": "$8.5 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "67"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Eyal Ofer",
+      "Net Worth": "$8.5 B",
+      "Source": "real estate, shipping",
+      "Country of Citizenship": "Israel",
+      "Age": "65"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Blair Parry-Okeden",
+      "Net Worth": "$8.5 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#156",
+      "Name": "Dmitry Rybolovlev",
+      "Net Worth": "$8.5 B",
+      "Source": "fertilizer",
+      "Country of Citizenship": "Russia",
+      "Age": "48"
+    },
+    {
+      "Rank": "#160",
+      "Name": "Petr Kellner",
+      "Net Worth": "$8.4 B",
+      "Source": "banking, insurance",
+      "Country of Citizenship": "Czech Republic",
+      "Age": "51"
+    },
+    {
+      "Rank": "#160",
+      "Name": "Margarita Louis-Dreyfus",
+      "Net Worth": "$8.4 B",
+      "Source": "commodities",
+      "Country of Citizenship": "Switzerland",
+      "Age": "52"
+    },
+    {
+      "Rank": "#162",
+      "Name": "Sergei Galitsky",
+      "Net Worth": "$8.3 B",
+      "Source": "retail",
+      "Country of Citizenship": "Russia",
+      "Age": "48"
+    },
+    {
+      "Rank": "#162",
+      "Name": "John Malone",
+      "Net Worth": "$8.3 B",
+      "Source": "cable television",
+      "Country of Citizenship": "United States",
+      "Age": "74"
+    },
+    {
+      "Rank": "#162",
+      "Name": "Donald Newhouse",
+      "Net Worth": "$8.3 B",
+      "Source": "media",
+      "Country of Citizenship": "United States",
+      "Age": "85"
+    },
+    {
+      "Rank": "#165",
+      "Name": "Joao Roberto Marinho",
+      "Net Worth": "$8.2 B",
+      "Source": "media",
+      "Country of Citizenship": "Brazil",
+      "Age": "62"
+    },
+    {
+      "Rank": "#165",
+      "Name": "Jose Roberto Marinho",
+      "Net Worth": "$8.2 B",
+      "Source": "media",
+      "Country of Citizenship": "Brazil",
+      "Age": "59"
+    },
+    {
+      "Rank": "#165",
+      "Name": "Roberto Irineu Marinho",
+      "Net Worth": "$8.2 B",
+      "Source": "media",
+      "Country of Citizenship": "Brazil",
+      "Age": "68"
+    },
+    {
+      "Rank": "#168",
+      "Name": "Pierre Omidyar",
+      "Net Worth": "$8 B",
+      "Source": "Ebay",
+      "Country of Citizenship": "United States",
+      "Age": "48"
+    },
+    {
+      "Rank": "#168",
+      "Name": "Ricardo Salinas Pliego",
+      "Net Worth": "$8 B",
+      "Source": "retail, media",
+      "Country of Citizenship": "Mexico",
+      "Age": "60"
+    },
+    {
+      "Rank": "#170",
+      "Name": "Gianluigi & Rafaela Aponte",
+      "Net Worth": "$7.9 B",
+      "Source": "shipping",
+      "Country of Citizenship": "Switzerland",
+      "Age": "-"
+    },
+    {
+      "Rank": "#170",
+      "Name": "Dustin Moskovitz",
+      "Net Worth": "$7.9 B",
+      "Source": "Facebook",
+      "Country of Citizenship": "United States",
+      "Age": "31"
+    },
+    {
+      "Rank": "#172",
+      "Name": "August von Finck",
+      "Net Worth": "$7.7 B",
+      "Source": "investments",
+      "Country of Citizenship": "Germany",
+      "Age": "85"
+    },
+    {
+      "Rank": "#172",
+      "Name": "Leslie Wexner",
+      "Net Worth": "$7.7 B",
+      "Source": "retail",
+      "Country of Citizenship": "United States",
+      "Age": "78"
+    },
+    {
+      "Rank": "#174",
+      "Name": "Giorgio Armani",
+      "Net Worth": "$7.6 B",
+      "Source": "Armani",
+      "Country of Citizenship": "Italy",
+      "Age": "81"
+    },
+    {
+      "Rank": "#174",
+      "Name": "Thomas Frist, Jr.",
+      "Net Worth": "$7.6 B",
+      "Source": "health care",
+      "Country of Citizenship": "United States",
+      "Age": "77"
+    },
+    {
+      "Rank": "#174",
+      "Name": "Takemitsu Takizaki",
+      "Net Worth": "$7.6 B",
+      "Source": "sensors",
+      "Country of Citizenship": "Japan",
+      "Age": "70"
+    },
+    {
+      "Rank": "#177",
+      "Name": "James Goodnight",
+      "Net Worth": "$7.5 B",
+      "Source": "software",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#177",
+      "Name": "Jim Pattison",
+      "Net Worth": "$7.5 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Canada",
+      "Age": "87"
+    },
+    {
+      "Rank": "#179",
+      "Name": "Silvio Berlusconi",
+      "Net Worth": "$7.4 B",
+      "Source": "media",
+      "Country of Citizenship": "Italy",
+      "Age": "79"
+    },
+    {
+      "Rank": "#179",
+      "Name": "David Duffield",
+      "Net Worth": "$7.4 B",
+      "Source": "business software",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#179",
+      "Name": "Edward Johnson, III.",
+      "Net Worth": "$7.4 B",
+      "Source": "money management",
+      "Country of Citizenship": "United States",
+      "Age": "85"
+    },
+    {
+      "Rank": "#179",
+      "Name": "Liu Qiangdong",
+      "Net Worth": "$7.4 B",
+      "Source": "e-commerce",
+      "Country of Citizenship": "China",
+      "Age": "41"
+    },
+    {
+      "Rank": "#179",
+      "Name": "Johann Rupert",
+      "Net Worth": "$7.4 B",
+      "Source": "luxury goods",
+      "Country of Citizenship": "South Africa",
+      "Age": "65"
+    },
+    {
+      "Rank": "#184",
+      "Name": "Alexei Kuzmichev",
+      "Net Worth": "$7.3 B",
+      "Source": "banking, telecom, retail",
+      "Country of Citizenship": "Russia",
+      "Age": "53"
+    },
+    {
+      "Rank": "#185",
+      "Name": "Eli Broad",
+      "Net Worth": "$7.2 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "82"
+    },
+    {
+      "Rank": "#185",
+      "Name": "Charles Cadogan",
+      "Net Worth": "$7.2 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "78"
+    },
+    {
+      "Rank": "#185",
+      "Name": "Dietmar Hopp",
+      "Net Worth": "$7.2 B",
+      "Source": "software",
+      "Country of Citizenship": "Germany",
+      "Age": "75"
+    },
+    {
+      "Rank": "#185",
+      "Name": "Uday Kotak",
+      "Net Worth": "$7.2 B",
+      "Source": "banking",
+      "Country of Citizenship": "India",
+      "Age": "56"
+    },
+    {
+      "Rank": "#185",
+      "Name": "Jay Y. Lee",
+      "Net Worth": "$7.2 B",
+      "Source": "electronics/tourism",
+      "Country of Citizenship": "South Korea",
+      "Age": "47"
+    },
+    {
+      "Rank": "#185",
+      "Name": "Suh Kyung-Bae",
+      "Net Worth": "$7.2 B",
+      "Source": "cosmetics",
+      "Country of Citizenship": "South Korea",
+      "Age": "52"
+    },
+    {
+      "Rank": "#191",
+      "Name": "Micky Arison",
+      "Net Worth": "$7.1 B",
+      "Source": "Carnival Cruises",
+      "Country of Citizenship": "United States",
+      "Age": "66"
+    },
+    {
+      "Rank": "#191",
+      "Name": "Emmanuel Besnier",
+      "Net Worth": "$7.1 B",
+      "Source": "cheese",
+      "Country of Citizenship": "France",
+      "Age": "45"
+    },
+    {
+      "Rank": "#193",
+      "Name": "Walter Kwok",
+      "Net Worth": "$7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "65"
+    },
+    {
+      "Rank": "#193",
+      "Name": "Ralph Lauren",
+      "Net Worth": "$7 B",
+      "Source": "Ralph Lauren",
+      "Country of Citizenship": "United States",
+      "Age": "76"
+    },
+    {
+      "Rank": "#195",
+      "Name": "David Geffen",
+      "Net Worth": "$6.9 B",
+      "Source": "entertainment",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#195",
+      "Name": "Graeme Hart",
+      "Net Worth": "$6.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "New Zealand",
+      "Age": "60"
+    },
+    {
+      "Rank": "#195",
+      "Name": "Gordon Moore",
+      "Net Worth": "$6.9 B",
+      "Source": "Intel",
+      "Country of Citizenship": "United States",
+      "Age": "86"
+    },
+    {
+      "Rank": "#195",
+      "Name": "Wang Jing",
+      "Net Worth": "$6.9 B",
+      "Source": "telecom services",
+      "Country of Citizenship": "China",
+      "Age": "42"
+    },
+    {
+      "Rank": "#199",
+      "Name": "Goh Cheng Liang",
+      "Net Worth": "$6.8 B",
+      "Source": "paints",
+      "Country of Citizenship": "Singapore",
+      "Age": "88"
+    },
+    {
+      "Rank": "#199",
+      "Name": "Denis O'Brien",
+      "Net Worth": "$6.8 B",
+      "Source": "telecom",
+      "Country of Citizenship": "Ireland",
+      "Age": "57"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Rinat Akhmetov",
+      "Net Worth": "$6.7 B",
+      "Source": "steel, coal",
+      "Country of Citizenship": "Ukraine",
+      "Age": "49"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Vincent Bollore",
+      "Net Worth": "$6.7 B",
+      "Source": "investments",
+      "Country of Citizenship": "France",
+      "Age": "63"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Jean-Claude Decaux",
+      "Net Worth": "$6.7 B",
+      "Source": "advertising",
+      "Country of Citizenship": "France",
+      "Age": "77"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Eva Gonda de Rivera",
+      "Net Worth": "$6.7 B",
+      "Source": "beverages",
+      "Country of Citizenship": "Mexico",
+      "Age": "-"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Nicky Oppenheimer",
+      "Net Worth": "$6.7 B",
+      "Source": "diamonds",
+      "Country of Citizenship": "South Africa",
+      "Age": "70"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Maria-Elisabeth Schaeffler",
+      "Net Worth": "$6.7 B",
+      "Source": "ball bearings",
+      "Country of Citizenship": "Germany",
+      "Age": "74"
+    },
+    {
+      "Rank": "#201",
+      "Name": "Reinhold Wuerth",
+      "Net Worth": "$6.7 B",
+      "Source": "fasteners",
+      "Country of Citizenship": "Germany",
+      "Age": "80"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Gautam Adani",
+      "Net Worth": "$6.6 B",
+      "Source": "commodities, infrastructure",
+      "Country of Citizenship": "India",
+      "Age": "53"
+    },
+    {
+      "Rank": "#208",
+      "Name": "William Ding",
+      "Net Worth": "$6.6 B",
+      "Source": "online games",
+      "Country of Citizenship": "China",
+      "Age": "44"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Johann Graf",
+      "Net Worth": "$6.6 B",
+      "Source": "gambling",
+      "Country of Citizenship": "Austria",
+      "Age": "68"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Charles Johnson",
+      "Net Worth": "$6.6 B",
+      "Source": "money management",
+      "Country of Citizenship": "United States",
+      "Age": "82"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Jan Koum",
+      "Net Worth": "$6.6 B",
+      "Source": "WhatsApp",
+      "Country of Citizenship": "United States",
+      "Age": "39"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Liu Yongxing",
+      "Net Worth": "$6.6 B",
+      "Source": "agribusiness",
+      "Country of Citizenship": "China",
+      "Age": "67"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Sunil Mittal",
+      "Net Worth": "$6.6 B",
+      "Source": "telecom",
+      "Country of Citizenship": "India",
+      "Age": "58"
+    },
+    {
+      "Rank": "#208",
+      "Name": "Cyrus Poonawalla",
+      "Net Worth": "$6.6 B",
+      "Source": "vaccines",
+      "Country of Citizenship": "India",
+      "Age": "74"
+    },
+    {
+      "Rank": "#216",
+      "Name": "Carl Cook",
+      "Net Worth": "$6.5 B",
+      "Source": "medical devices",
+      "Country of Citizenship": "United States",
+      "Age": "53"
+    },
+    {
+      "Rank": "#216",
+      "Name": "Ken Griffin",
+      "Net Worth": "$6.5 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "47"
+    },
+    {
+      "Rank": "#216",
+      "Name": "James Irving",
+      "Net Worth": "$6.5 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Canada",
+      "Age": "87"
+    },
+    {
+      "Rank": "#216",
+      "Name": "Stephen Ross",
+      "Net Worth": "$6.5 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#220",
+      "Name": "Abdulla bin Ahmad Al Ghurair",
+      "Net Worth": "$6.4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "United Arab Emirates",
+      "Age": "-"
+    },
+    {
+      "Rank": "#220",
+      "Name": "Richard LeFrak",
+      "Net Worth": "$6.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "70"
+    },
+    {
+      "Rank": "#220",
+      "Name": "Melker Schorling",
+      "Net Worth": "$6.4 B",
+      "Source": "investments",
+      "Country of Citizenship": "Sweden",
+      "Age": "68"
+    },
+    {
+      "Rank": "#220",
+      "Name": "Charles Schwab",
+      "Net Worth": "$6.4 B",
+      "Source": "discount brokerage",
+      "Country of Citizenship": "United States",
+      "Age": "78"
+    },
+    {
+      "Rank": "#220",
+      "Name": "Heinz Hermann Thiele",
+      "Net Worth": "$6.4 B",
+      "Source": "brakes",
+      "Country of Citizenship": "Germany",
+      "Age": "74"
+    },
+    {
+      "Rank": "#225",
+      "Name": "Stanley Kroenke",
+      "Net Worth": "$6.3 B",
+      "Source": "sports, real estate",
+      "Country of Citizenship": "United States",
+      "Age": "68"
+    },
+    {
+      "Rank": "#225",
+      "Name": "Sandra Ortega Mera",
+      "Net Worth": "$6.3 B",
+      "Source": "Zara",
+      "Country of Citizenship": "Spain",
+      "Age": "47"
+    },
+    {
+      "Rank": "#225",
+      "Name": "Sumner Redstone",
+      "Net Worth": "$6.3 B",
+      "Source": "Media",
+      "Country of Citizenship": "United States",
+      "Age": "92"
+    },
+    {
+      "Rank": "#225",
+      "Name": "Nassef Sawiris",
+      "Net Worth": "$6.3 B",
+      "Source": "construction",
+      "Country of Citizenship": "Egypt",
+      "Age": "54"
+    },
+    {
+      "Rank": "#225",
+      "Name": "Christoffel Wiese",
+      "Net Worth": "$6.3 B",
+      "Source": "retailing",
+      "Country of Citizenship": "South Africa",
+      "Age": "74"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Majid Al Futtaim",
+      "Net Worth": "$6.2 B",
+      "Source": "real estate, retail",
+      "Country of Citizenship": "United Arab Emirates",
+      "Age": "-"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Dannine Avara",
+      "Net Worth": "$6.2 B",
+      "Source": "pipelines",
+      "Country of Citizenship": "United States",
+      "Age": "51"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Oleg Deripaska",
+      "Net Worth": "$6.2 B",
+      "Source": "aluminum, utilities",
+      "Country of Citizenship": "Russia",
+      "Age": "47"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Scott Duncan",
+      "Net Worth": "$6.2 B",
+      "Source": "pipelines",
+      "Country of Citizenship": "United States",
+      "Age": "33"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Curt Engelhorn",
+      "Net Worth": "$6.2 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "Germany",
+      "Age": "89"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Milane Frantz",
+      "Net Worth": "$6.2 B",
+      "Source": "pipelines",
+      "Country of Citizenship": "United States",
+      "Age": "46"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Hui Ka Yan",
+      "Net Worth": "$6.2 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "57"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Rupert Johnson, Jr.",
+      "Net Worth": "$6.2 B",
+      "Source": "money management",
+      "Country of Citizenship": "United States",
+      "Age": "74"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Michael Kadoorie",
+      "Net Worth": "$6.2 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "74"
+    },
+    {
+      "Rank": "#230",
+      "Name": "Kelcy Warren",
+      "Net Worth": "$6.2 B",
+      "Source": "pipelines",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#240",
+      "Name": "Chan Laiwa",
+      "Net Worth": "$6.1 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "74"
+    },
+    {
+      "Rank": "#240",
+      "Name": "Terry Gou",
+      "Net Worth": "$6.1 B",
+      "Source": "electronics",
+      "Country of Citizenship": "Taiwan",
+      "Age": "65"
+    },
+    {
+      "Rank": "#240",
+      "Name": "Willi & Isolde Liebherr",
+      "Net Worth": "$6.1 B",
+      "Source": "construction",
+      "Country of Citizenship": "Switzerland",
+      "Age": "-"
+    },
+    {
+      "Rank": "#240",
+      "Name": "Ira Rennert",
+      "Net Worth": "$6.1 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "81"
+    },
+    {
+      "Rank": "#240",
+      "Name": "Randa Williams",
+      "Net Worth": "$6.1 B",
+      "Source": "pipelines",
+      "Country of Citizenship": "United States",
+      "Age": "54"
+    },
+    {
+      "Rank": "#240",
+      "Name": "Hansjoerg Wyss",
+      "Net Worth": "$6.1 B",
+      "Source": "medical devices",
+      "Country of Citizenship": "Switzerland",
+      "Age": "80"
+    },
+    {
+      "Rank": "#246",
+      "Name": "David Green",
+      "Net Worth": "$6 B",
+      "Source": "retail",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#246",
+      "Name": "Augusto & Giorgio Perfetti",
+      "Net Worth": "$6 B",
+      "Source": "candy",
+      "Country of Citizenship": "Italy",
+      "Age": "-"
+    },
+    {
+      "Rank": "#248",
+      "Name": "Jin Sook & Do Won Chang",
+      "Net Worth": "$5.9 B",
+      "Source": "fashion retail",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#248",
+      "Name": "Bruce Halle",
+      "Net Worth": "$5.9 B",
+      "Source": "tires",
+      "Country of Citizenship": "United States",
+      "Age": "85"
+    },
+    {
+      "Rank": "#248",
+      "Name": "Lu Zhiqiang",
+      "Net Worth": "$5.9 B",
+      "Source": "diversified",
+      "Country of Citizenship": "China",
+      "Age": "63"
+    },
+    {
+      "Rank": "#248",
+      "Name": "Bruno Schroder",
+      "Net Worth": "$5.9 B",
+      "Source": "banking",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "82"
+    },
+    {
+      "Rank": "#248",
+      "Name": "Joseph Tsai",
+      "Net Worth": "$5.9 B",
+      "Source": "e-commerce",
+      "Country of Citizenship": "Canada",
+      "Age": "51"
+    },
+    {
+      "Rank": "#248",
+      "Name": "Dennis Washington",
+      "Net Worth": "$5.9 B",
+      "Source": "construction, mining",
+      "Country of Citizenship": "United States",
+      "Age": "81"
+    },
+    {
+      "Rank": "#254",
+      "Name": "John Gokongwei, Jr.",
+      "Net Worth": "$5.8 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Philippines",
+      "Age": "88"
+    },
+    {
+      "Rank": "#254",
+      "Name": "Desh Bandhu Gupta",
+      "Net Worth": "$5.8 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "India",
+      "Age": "77"
+    },
+    {
+      "Rank": "#254",
+      "Name": "Pauline MacMillan Keinath",
+      "Net Worth": "$5.8 B",
+      "Source": "Cargill",
+      "Country of Citizenship": "United States",
+      "Age": "81"
+    },
+    {
+      "Rank": "#254",
+      "Name": "Loretta Robinson",
+      "Net Worth": "$5.8 B",
+      "Source": "cable tv",
+      "Country of Citizenship": "Canada",
+      "Age": "76"
+    },
+    {
+      "Rank": "#254",
+      "Name": "Zhang Zhidong",
+      "Net Worth": "$5.8 B",
+      "Source": "internet media",
+      "Country of Citizenship": "China",
+      "Age": "43"
+    },
+    {
+      "Rank": "#259",
+      "Name": "Chung Mong-Koo",
+      "Net Worth": "$5.7 B",
+      "Source": "motor vehicles",
+      "Country of Citizenship": "South Korea",
+      "Age": "77"
+    },
+    {
+      "Rank": "#259",
+      "Name": "Richard DeVos",
+      "Net Worth": "$5.7 B",
+      "Source": "Amway",
+      "Country of Citizenship": "United States",
+      "Age": "89"
+    },
+    {
+      "Rank": "#259",
+      "Name": "Guo Guangchang",
+      "Net Worth": "$5.7 B",
+      "Source": "diversified",
+      "Country of Citizenship": "China",
+      "Age": "48"
+    },
+    {
+      "Rank": "#259",
+      "Name": "Lin Yu-lin",
+      "Net Worth": "$5.7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Taiwan",
+      "Age": "79"
+    },
+    {
+      "Rank": "#259",
+      "Name": "Andrei Skoch",
+      "Net Worth": "$5.7 B",
+      "Source": "steel",
+      "Country of Citizenship": "Russia",
+      "Age": "49"
+    },
+    {
+      "Rank": "#259",
+      "Name": "Juan-Miguel Villar Mir",
+      "Net Worth": "$5.7 B",
+      "Source": "construction",
+      "Country of Citizenship": "Spain",
+      "Age": "84"
+    },
+    {
+      "Rank": "#265",
+      "Name": "Maria Asuncion Aramburuzabala",
+      "Net Worth": "$5.6 B",
+      "Source": "beer, investments",
+      "Country of Citizenship": "Mexico",
+      "Age": "52"
+    },
+    {
+      "Rank": "#265",
+      "Name": "Ray Lee Hunt",
+      "Net Worth": "$5.6 B",
+      "Source": "oil, real estate",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#265",
+      "Name": "Ann Walton Kroenke",
+      "Net Worth": "$5.6 B",
+      "Source": "Wal-Mart",
+      "Country of Citizenship": "United States",
+      "Age": "66"
+    },
+    {
+      "Rank": "#265",
+      "Name": "Quek Leng Chan",
+      "Net Worth": "$5.6 B",
+      "Source": "banking, real estate",
+      "Country of Citizenship": "Malaysia",
+      "Age": "74"
+    },
+    {
+      "Rank": "#265",
+      "Name": "Keiichiro Takahara",
+      "Net Worth": "$5.6 B",
+      "Source": "diapers",
+      "Country of Citizenship": "Japan",
+      "Age": "84"
+    },
+    {
+      "Rank": "#265",
+      "Name": "Stef Wertheimer",
+      "Net Worth": "$5.6 B",
+      "Source": "tools",
+      "Country of Citizenship": "Israel",
+      "Age": "89"
+    },
+    {
+      "Rank": "#271",
+      "Name": "Arthur Irving",
+      "Net Worth": "$5.5 B",
+      "Source": "oil",
+      "Country of Citizenship": "Canada",
+      "Age": "85"
+    },
+    {
+      "Rank": "#271",
+      "Name": "Herbert Kohler, Jr.",
+      "Net Worth": "$5.5 B",
+      "Source": "plumbing fixtures",
+      "Country of Citizenship": "United States",
+      "Age": "76"
+    },
+    {
+      "Rank": "#271",
+      "Name": "Anders Holch Povlsen",
+      "Net Worth": "$5.5 B",
+      "Source": "retail",
+      "Country of Citizenship": "Denmark",
+      "Age": "43"
+    },
+    {
+      "Rank": "#271",
+      "Name": "Jorn Rausing",
+      "Net Worth": "$5.5 B",
+      "Source": "packaging",
+      "Country of Citizenship": "Sweden",
+      "Age": "55"
+    },
+    {
+      "Rank": "#271",
+      "Name": "Thomas Schmidheiny",
+      "Net Worth": "$5.5 B",
+      "Source": "cement",
+      "Country of Citizenship": "Switzerland",
+      "Age": "69"
+    },
+    {
+      "Rank": "#271",
+      "Name": "Wee Cho Yaw",
+      "Net Worth": "$5.5 B",
+      "Source": "banking",
+      "Country of Citizenship": "Singapore",
+      "Age": "86"
+    },
+    {
+      "Rank": "#277",
+      "Name": "Hui Wing Mau",
+      "Net Worth": "$5.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "65"
+    },
+    {
+      "Rank": "#277",
+      "Name": "Joe Lewis",
+      "Net Worth": "$5.4 B",
+      "Source": "investments",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "78"
+    },
+    {
+      "Rank": "#277",
+      "Name": "Juan Roig",
+      "Net Worth": "$5.4 B",
+      "Source": "supermarkets",
+      "Country of Citizenship": "Spain",
+      "Age": "66"
+    },
+    {
+      "Rank": "#277",
+      "Name": "Robert Rowling",
+      "Net Worth": "$5.4 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "62"
+    },
+    {
+      "Rank": "#277",
+      "Name": "Teh Hong Piow",
+      "Net Worth": "$5.4 B",
+      "Source": "banking",
+      "Country of Citizenship": "Malaysia",
+      "Age": "85"
+    },
+    {
+      "Rank": "#277",
+      "Name": "Harry Triguboff",
+      "Net Worth": "$5.4 B",
+      "Source": "property",
+      "Country of Citizenship": "Australia",
+      "Age": "82"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Leon Black",
+      "Net Worth": "$5.3 B",
+      "Source": "private equity",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Carlos and Alejandro Bulgheroni",
+      "Net Worth": "$5.3 B",
+      "Source": "oil and gas",
+      "Country of Citizenship": "Argentina",
+      "Age": "-"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Garrett Camp",
+      "Net Worth": "$5.3 B",
+      "Source": "Uber Technologies",
+      "Country of Citizenship": "Canada",
+      "Age": "37"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Leonid Fedun",
+      "Net Worth": "$5.3 B",
+      "Source": "oil",
+      "Country of Citizenship": "Russia",
+      "Age": "59"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Savitri Jindal",
+      "Net Worth": "$5.3 B",
+      "Source": "steel",
+      "Country of Citizenship": "India",
+      "Age": "65"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Antonia Johnson",
+      "Net Worth": "$5.3 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Sweden",
+      "Age": "72"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Travis Kalanick",
+      "Net Worth": "$5.3 B",
+      "Source": "Uber Technologies",
+      "Country of Citizenship": "United States",
+      "Age": "39"
+    },
+    {
+      "Rank": "#283",
+      "Name": "Leonard Stern",
+      "Net Worth": "$5.3 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "77"
+    },
+    {
+      "Rank": "#291",
+      "Name": "David & Frederick Barclay",
+      "Net Worth": "$5.2 B",
+      "Source": "media, retail",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "81"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Vivien Chen",
+      "Net Worth": "$5.2 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "56"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Bidzina Ivanishvili",
+      "Net Worth": "$5.2 B",
+      "Source": "investments",
+      "Country of Citizenship": "Georgia",
+      "Age": "59"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Micky Jagtiani",
+      "Net Worth": "$5.2 B",
+      "Source": "retail",
+      "Country of Citizenship": "India",
+      "Age": "64"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Henry Kravis",
+      "Net Worth": "$5.2 B",
+      "Source": "private equity",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#291",
+      "Name": "James Packer",
+      "Net Worth": "$5.2 B",
+      "Source": "casinos",
+      "Country of Citizenship": "Australia",
+      "Age": "48"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Enrique Razon, Jr.",
+      "Net Worth": "$5.2 B",
+      "Source": "ports",
+      "Country of Citizenship": "Philippines",
+      "Age": "55"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Odd Reitan",
+      "Net Worth": "$5.2 B",
+      "Source": "retail, real estate",
+      "Country of Citizenship": "Norway",
+      "Age": "64"
+    },
+    {
+      "Rank": "#291",
+      "Name": "George Roberts",
+      "Net Worth": "$5.2 B",
+      "Source": "private equity",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#291",
+      "Name": "Paolo & Gianfelice Mario Rocca",
+      "Net Worth": "$5.2 B",
+      "Source": "pipe manufacturing",
+      "Country of Citizenship": "Italy",
+      "Age": "-"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Pyotr Aven",
+      "Net Worth": "$5.1 B",
+      "Source": "banking, telecom",
+      "Country of Citizenship": "Russia",
+      "Age": "60"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Ivan Glasenberg",
+      "Net Worth": "$5.1 B",
+      "Source": "mining",
+      "Country of Citizenship": "Switzerland",
+      "Age": "58"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Philip & Cristina Green",
+      "Net Worth": "$5.1 B",
+      "Source": "retail",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "63"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Lu Guanqiu",
+      "Net Worth": "$5.1 B",
+      "Source": "diversified",
+      "Country of Citizenship": "China",
+      "Age": "70"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Arnon Milchan",
+      "Net Worth": "$5.1 B",
+      "Source": "movie making",
+      "Country of Citizenship": "Israel",
+      "Age": "70"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Dan Olsson",
+      "Net Worth": "$5.1 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Sweden",
+      "Age": "68"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Finn Rausing",
+      "Net Worth": "$5.1 B",
+      "Source": "packaging",
+      "Country of Citizenship": "Sweden",
+      "Age": "60"
+    },
+    {
+      "Rank": "#301",
+      "Name": "Kirsten Rausing",
+      "Net Worth": "$5.1 B",
+      "Source": "packaging",
+      "Country of Citizenship": "Sweden",
+      "Age": "63"
+    },
+    {
+      "Rank": "#309",
+      "Name": "Laurence Graff",
+      "Net Worth": "$5 B",
+      "Source": "diamond jewelry",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "77"
+    },
+    {
+      "Rank": "#309",
+      "Name": "Pansy Ho",
+      "Net Worth": "$5 B",
+      "Source": "casinos",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "53"
+    },
+    {
+      "Rank": "#309",
+      "Name": "Bertil Hult",
+      "Net Worth": "$5 B",
+      "Source": "education",
+      "Country of Citizenship": "Sweden",
+      "Age": "74"
+    },
+    {
+      "Rank": "#309",
+      "Name": "Karl-Heinz Kipp",
+      "Net Worth": "$5 B",
+      "Source": "retail",
+      "Country of Citizenship": "Germany",
+      "Age": "91"
+    },
+    {
+      "Rank": "#309",
+      "Name": "Bruce Kovner",
+      "Net Worth": "$5 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "70"
+    },
+    {
+      "Rank": "#309",
+      "Name": "George Lucas",
+      "Net Worth": "$5 B",
+      "Source": "Star Wars",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#309",
+      "Name": "David Sun",
+      "Net Worth": "$5 B",
+      "Source": "computer hardware",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#309",
+      "Name": "John Tu",
+      "Net Worth": "$5 B",
+      "Source": "computer hardware",
+      "Country of Citizenship": "United States",
+      "Age": "74"
+    },
+    {
+      "Rank": "#309",
+      "Name": "Yang Huiyan",
+      "Net Worth": "$5 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "34"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Michael Ashley",
+      "Net Worth": "$4.9 B",
+      "Source": "sports retailing",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "51"
+    },
+    {
+      "Rank": "#318",
+      "Name": "James Dyson",
+      "Net Worth": "$4.9 B",
+      "Source": "vacuums",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "68"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Albert Frere",
+      "Net Worth": "$4.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "Belgium",
+      "Age": "89"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Jeffery Hildebrand",
+      "Net Worth": "$4.9 B",
+      "Source": "oil",
+      "Country of Citizenship": "United States",
+      "Age": "56"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Kwee brothers",
+      "Net Worth": "$4.9 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Singapore",
+      "Age": "70"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Liang Wengen",
+      "Net Worth": "$4.9 B",
+      "Source": "construction equipment",
+      "Country of Citizenship": "China",
+      "Age": "58"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Frank Lowy",
+      "Net Worth": "$4.9 B",
+      "Source": "shopping malls",
+      "Country of Citizenship": "Australia",
+      "Age": "85"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Frederik Paulsen",
+      "Net Worth": "$4.9 B",
+      "Source": "health care",
+      "Country of Citizenship": "Sweden",
+      "Age": "65"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Sam Zell",
+      "Net Worth": "$4.9 B",
+      "Source": "real estate, private equity",
+      "Country of Citizenship": "United States",
+      "Age": "74"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Daniel Ziff",
+      "Net Worth": "$4.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "44"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Dirk Ziff",
+      "Net Worth": "$4.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "51"
+    },
+    {
+      "Rank": "#318",
+      "Name": "Robert Ziff",
+      "Net Worth": "$4.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "49"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Isak Andic",
+      "Net Worth": "$4.8 B",
+      "Source": "clothing retail",
+      "Country of Citizenship": "Spain",
+      "Age": "62"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Richard Branson",
+      "Net Worth": "$4.8 B",
+      "Source": "Virgin",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "65"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Adi Godrej",
+      "Net Worth": "$4.8 B",
+      "Source": "consumer goods",
+      "Country of Citizenship": "India",
+      "Age": "73"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Jamshyd Godrej",
+      "Net Worth": "$4.8 B",
+      "Source": "consumer goods",
+      "Country of Citizenship": "India",
+      "Age": "66"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Michael & Marian Ilitch",
+      "Net Worth": "$4.8 B",
+      "Source": "pizza",
+      "Country of Citizenship": "United States",
+      "Age": "86"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Ted Lerner",
+      "Net Worth": "$4.8 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "90"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Idan Ofer",
+      "Net Worth": "$4.8 B",
+      "Source": "drilling, shipping",
+      "Country of Citizenship": "Israel",
+      "Age": "60"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Emanuele (Lino) Saputo",
+      "Net Worth": "$4.8 B",
+      "Source": "cheese",
+      "Country of Citizenship": "Canada",
+      "Age": "78"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Eduardo Saverin",
+      "Net Worth": "$4.8 B",
+      "Source": "Facebook",
+      "Country of Citizenship": "Brazil",
+      "Age": "33"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Andrew Tan",
+      "Net Worth": "$4.8 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Philippines",
+      "Age": "63"
+    },
+    {
+      "Rank": "#330",
+      "Name": "Zhou Jianping",
+      "Net Worth": "$4.8 B",
+      "Source": "apparel",
+      "Country of Citizenship": "China",
+      "Age": "55"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Phillip Frost",
+      "Net Worth": "$4.7 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "United States",
+      "Age": "78"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Daniel Gilbert",
+      "Net Worth": "$4.7 B",
+      "Source": "Quicken Loans",
+      "Country of Citizenship": "United States",
+      "Age": "53"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Gong Hongjia",
+      "Net Worth": "$4.7 B",
+      "Source": "investments",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "50"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Stein Erik Hagen",
+      "Net Worth": "$4.7 B",
+      "Source": "retail",
+      "Country of Citizenship": "Norway",
+      "Age": "59"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Reid Hoffman",
+      "Net Worth": "$4.7 B",
+      "Source": "LinkedIn",
+      "Country of Citizenship": "United States",
+      "Age": "48"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Nancy Walton Laurie",
+      "Net Worth": "$4.7 B",
+      "Source": "Wal-Mart",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Liu Yonghao",
+      "Net Worth": "$4.7 B",
+      "Source": "agribusiness",
+      "Country of Citizenship": "China",
+      "Age": "64"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Sri Prakash Lohia",
+      "Net Worth": "$4.7 B",
+      "Source": "polyester",
+      "Country of Citizenship": "Indonesia",
+      "Age": "63"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Whitney MacMillan",
+      "Net Worth": "$4.7 B",
+      "Source": "Cargill",
+      "Country of Citizenship": "United States",
+      "Age": "86"
+    },
+    {
+      "Rank": "#341",
+      "Name": "John A. Sobrato",
+      "Net Worth": "$4.7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "76"
+    },
+    {
+      "Rank": "#341",
+      "Name": "Tong Jinquan",
+      "Net Worth": "$4.7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "61"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Dona Bertarelli",
+      "Net Worth": "$4.6 B",
+      "Source": "biotech",
+      "Country of Citizenship": "Switzerland",
+      "Age": "47"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Heinrich Deichmann",
+      "Net Worth": "$4.6 B",
+      "Source": "Footwear",
+      "Country of Citizenship": "Germany",
+      "Age": "52"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Paul Tudor Jones, II.",
+      "Net Worth": "$4.6 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "61"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Randal Kirk",
+      "Net Worth": "$4.6 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "United States",
+      "Age": "61"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Lee Shin Cheng",
+      "Net Worth": "$4.6 B",
+      "Source": "palm oil, real estate",
+      "Country of Citizenship": "Malaysia",
+      "Age": "76"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Ludwig Merckle",
+      "Net Worth": "$4.6 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "Germany",
+      "Age": "50"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Sergei Popov",
+      "Net Worth": "$4.6 B",
+      "Source": "banking",
+      "Country of Citizenship": "Russia",
+      "Age": "44"
+    },
+    {
+      "Rank": "#352",
+      "Name": "Mark Shoen",
+      "Net Worth": "$4.6 B",
+      "Source": "U-Haul",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Alexander Abramov",
+      "Net Worth": "$4.5 B",
+      "Source": "steel, mining",
+      "Country of Citizenship": "Russia",
+      "Age": "56"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Pierre Bellon",
+      "Net Worth": "$4.5 B",
+      "Source": "food services",
+      "Country of Citizenship": "France",
+      "Age": "85"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Kunio Busujima",
+      "Net Worth": "$4.5 B",
+      "Source": "Pachinko Machines",
+      "Country of Citizenship": "Japan",
+      "Age": "90"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Michael Herz",
+      "Net Worth": "$4.5 B",
+      "Source": "coffee",
+      "Country of Citizenship": "Germany",
+      "Age": "72"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Wolfgang Herz",
+      "Net Worth": "$4.5 B",
+      "Source": "coffee",
+      "Country of Citizenship": "Germany",
+      "Age": "64"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Elizabeth Holmes",
+      "Net Worth": "$4.5 B",
+      "Source": "blood testing",
+      "Country of Citizenship": "United States",
+      "Age": "31"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Shahid Khan",
+      "Net Worth": "$4.5 B",
+      "Source": "auto parts",
+      "Country of Citizenship": "United States",
+      "Age": "65"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Richard Li",
+      "Net Worth": "$4.5 B",
+      "Source": "telecoms",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "49"
+    },
+    {
+      "Rank": "#360",
+      "Name": "Shashi & Ravi Ruia",
+      "Net Worth": "$4.5 B",
+      "Source": "diversified",
+      "Country of Citizenship": "India",
+      "Age": "-"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Americo Amorim",
+      "Net Worth": "$4.4 B",
+      "Source": "energy, investments",
+      "Country of Citizenship": "Portugal",
+      "Age": "81"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Shari Arison",
+      "Net Worth": "$4.4 B",
+      "Source": "Carnival Cruises",
+      "Country of Citizenship": "Israel",
+      "Age": "58"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Abilio dos Santos Diniz",
+      "Net Worth": "$4.4 B",
+      "Source": "retail",
+      "Country of Citizenship": "Brazil",
+      "Age": "78"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Guenther Fielmann",
+      "Net Worth": "$4.4 B",
+      "Source": "optometry",
+      "Country of Citizenship": "Germany",
+      "Age": "76"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Filaret Galchev",
+      "Net Worth": "$4.4 B",
+      "Source": "construction materials",
+      "Country of Citizenship": "Russia",
+      "Age": "52"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Ian & Richard Livingstone",
+      "Net Worth": "$4.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "-"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Horst Paulmann",
+      "Net Worth": "$4.4 B",
+      "Source": "retail",
+      "Country of Citizenship": "Chile",
+      "Age": "80"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Alejandro Santo Domingo",
+      "Net Worth": "$4.4 B",
+      "Source": "beer",
+      "Country of Citizenship": "United States",
+      "Age": "38"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Andres Santo Domingo",
+      "Net Worth": "$4.4 B",
+      "Source": "beer",
+      "Country of Citizenship": "United States",
+      "Age": "37"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Lucio Tan",
+      "Net Worth": "$4.4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Philippines",
+      "Age": "81"
+    },
+    {
+      "Rank": "#369",
+      "Name": "George Ty",
+      "Net Worth": "$4.4 B",
+      "Source": "banking",
+      "Country of Citizenship": "Philippines",
+      "Age": "82"
+    },
+    {
+      "Rank": "#369",
+      "Name": "Murat Ulker",
+      "Net Worth": "$4.4 B",
+      "Source": "food manufacturing",
+      "Country of Citizenship": "Turkey",
+      "Age": "56"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Jeronimo Arango",
+      "Net Worth": "$4.3 B",
+      "Source": "retail",
+      "Country of Citizenship": "Mexico",
+      "Age": "89"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Anthony Bamford",
+      "Net Worth": "$4.3 B",
+      "Source": "construction equipment",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "70"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Charles Dolan",
+      "Net Worth": "$4.3 B",
+      "Source": "cable television",
+      "Country of Citizenship": "United States",
+      "Age": "89"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Tamara Gustavson",
+      "Net Worth": "$4.3 B",
+      "Source": "self storage",
+      "Country of Citizenship": "United States",
+      "Age": "53"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Zarakh Iliev",
+      "Net Worth": "$4.3 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Russia",
+      "Age": "49"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Robert Kraft",
+      "Net Worth": "$4.3 B",
+      "Source": "New England Patriots",
+      "Country of Citizenship": "United States",
+      "Age": "74"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Luo Jye",
+      "Net Worth": "$4.3 B",
+      "Source": "tires",
+      "Country of Citizenship": "Taiwan",
+      "Age": "89"
+    },
+    {
+      "Rank": "#381",
+      "Name": "God Nisanov",
+      "Net Worth": "$4.3 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Russia",
+      "Age": "43"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Karen Pritzker",
+      "Net Worth": "$4.3 B",
+      "Source": "hotels, investments",
+      "Country of Citizenship": "United States",
+      "Age": "57"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Trevor Rees-Jones",
+      "Net Worth": "$4.3 B",
+      "Source": "oil & gas",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Chairul Tanjung",
+      "Net Worth": "$4.3 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Indonesia",
+      "Age": "53"
+    },
+    {
+      "Rank": "#381",
+      "Name": "Lottie Tham",
+      "Net Worth": "$4.3 B",
+      "Source": "H&M",
+      "Country of Citizenship": "Sweden",
+      "Age": "66"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Mike Adenuga",
+      "Net Worth": "$4.2 B",
+      "Source": "telcom, oil",
+      "Country of Citizenship": "Nigeria",
+      "Age": "62"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Subhash Chandra",
+      "Net Worth": "$4.2 B",
+      "Source": "media",
+      "Country of Citizenship": "India",
+      "Age": "64"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Gustaf Douglas",
+      "Net Worth": "$4.2 B",
+      "Source": "security",
+      "Country of Citizenship": "Sweden",
+      "Age": "77"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Han Chang-Woo",
+      "Net Worth": "$4.2 B",
+      "Source": "pachinko parlors",
+      "Country of Citizenship": "Japan",
+      "Age": "84"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Jerry Jones",
+      "Net Worth": "$4.2 B",
+      "Source": "Dallas Cowboys",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Kirk Kerkorian",
+      "Net Worth": "$4.2 B",
+      "Source": "casinos, investments",
+      "Country of Citizenship": "United States",
+      "Age": "98"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Lin Rong San",
+      "Net Worth": "$4.2 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Taiwan",
+      "Age": "76"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Stewart and Lynda Resnick",
+      "Net Worth": "$4.2 B",
+      "Source": "agriculture, water",
+      "Country of Citizenship": "United States",
+      "Age": "-"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Wang Wei",
+      "Net Worth": "$4.2 B",
+      "Source": "package delivery service",
+      "Country of Citizenship": "China",
+      "Age": "44"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Karl Wlaschek",
+      "Net Worth": "$4.2 B",
+      "Source": "retail",
+      "Country of Citizenship": "Austria",
+      "Age": "98"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Aloys Wobben",
+      "Net Worth": "$4.2 B",
+      "Source": "wind turbines",
+      "Country of Citizenship": "Germany",
+      "Age": "63"
+    },
+    {
+      "Rank": "#393",
+      "Name": "Zhang Jindong",
+      "Net Worth": "$4.2 B",
+      "Source": "appliance retailer",
+      "Country of Citizenship": "China",
+      "Age": "52"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Prince Sultan bin Mohammed bin Saud Al Kabeer",
+      "Net Worth": "$4.1 B",
+      "Source": "dairy farms",
+      "Country of Citizenship": "Saudi Arabia",
+      "Age": "61"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Benu Gopal Bangur",
+      "Net Worth": "$4.1 B",
+      "Source": "cement",
+      "Country of Citizenship": "India",
+      "Age": "84"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Patrizio Bertelli",
+      "Net Worth": "$4.1 B",
+      "Source": "luxury goods",
+      "Country of Citizenship": "Italy",
+      "Age": "69"
+    },
+    {
+      "Rank": "#405",
+      "Name": "David Consunji",
+      "Net Worth": "$4.1 B",
+      "Source": "construction",
+      "Country of Citizenship": "Philippines",
+      "Age": "94"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Frits Goldschmeding",
+      "Net Worth": "$4.1 B",
+      "Source": "temp agency",
+      "Country of Citizenship": "Netherlands",
+      "Age": "82"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Martha Ingram",
+      "Net Worth": "$4.1 B",
+      "Source": "book distribution, transportation",
+      "Country of Citizenship": "United States",
+      "Age": "80"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Barry Lam",
+      "Net Worth": "$4.1 B",
+      "Source": "computers",
+      "Country of Citizenship": "Taiwan",
+      "Age": "66"
+    },
+    {
+      "Rank": "#405",
+      "Name": "John Morris",
+      "Net Worth": "$4.1 B",
+      "Source": "sporting goods retail",
+      "Country of Citizenship": "United States",
+      "Age": "67"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Miuccia Prada",
+      "Net Worth": "$4.1 B",
+      "Source": "Prada",
+      "Country of Citizenship": "Italy",
+      "Age": "66"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Mark Scheinberg",
+      "Net Worth": "$4.1 B",
+      "Source": "online gambling",
+      "Country of Citizenship": "Canada",
+      "Age": "41"
+    },
+    {
+      "Rank": "#405",
+      "Name": "David Shaw",
+      "Net Worth": "$4.1 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Donald Trump",
+      "Net Worth": "$4.1 B",
+      "Source": "television, real estate",
+      "Country of Citizenship": "United States",
+      "Age": "69"
+    },
+    {
+      "Rank": "#405",
+      "Name": "Zhang Shiping",
+      "Net Worth": "$4.1 B",
+      "Source": "aluminum products",
+      "Country of Citizenship": "China",
+      "Age": "68"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Anil Ambani",
+      "Net Worth": "$4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "India",
+      "Age": "56"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Samvel Karapetyan",
+      "Net Worth": "$4 B",
+      "Source": "development",
+      "Country of Citizenship": "Russia",
+      "Age": "50"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Jan Kulczyk",
+      "Net Worth": "$4 B",
+      "Source": "telecom, oil, beer",
+      "Country of Citizenship": "Poland",
+      "Age": "65"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Tom & Judy Love",
+      "Net Worth": "$4 B",
+      "Source": "retail & gas stations",
+      "Country of Citizenship": "United States",
+      "Age": "78"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Mohamed Mansour",
+      "Net Worth": "$4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Egypt",
+      "Age": "67"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Mitchell Rales",
+      "Net Worth": "$4 B",
+      "Source": "manufacturing, investments",
+      "Country of Citizenship": "United States",
+      "Age": "59"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Wolfgang Reimann",
+      "Net Worth": "$4 B",
+      "Source": "consumer goods",
+      "Country of Citizenship": "Germany",
+      "Age": "63"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Matthias Reimann-Andersen",
+      "Net Worth": "$4 B",
+      "Source": "consumer goods",
+      "Country of Citizenship": "Germany",
+      "Age": "50"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Stefan Reimann-Andersen",
+      "Net Worth": "$4 B",
+      "Source": "consumer goods",
+      "Country of Citizenship": "Germany",
+      "Age": "52"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Renate Reimann-Haas",
+      "Net Worth": "$4 B",
+      "Source": "consumer goods",
+      "Country of Citizenship": "Germany",
+      "Age": "64"
+    },
+    {
+      "Rank": "#418",
+      "Name": "J. Christopher Reyes",
+      "Net Worth": "$4 B",
+      "Source": "food distribution",
+      "Country of Citizenship": "United States",
+      "Age": "61"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Jude Reyes",
+      "Net Worth": "$4 B",
+      "Source": "food distribution",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Edward Roski, Jr.",
+      "Net Worth": "$4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "76"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Reinhold Schmieding",
+      "Net Worth": "$4 B",
+      "Source": "medical devices",
+      "Country of Citizenship": "United States",
+      "Age": "60"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Jerry Speyer",
+      "Net Worth": "$4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Friede Springer",
+      "Net Worth": "$4 B",
+      "Source": "publishing",
+      "Country of Citizenship": "Germany",
+      "Age": "73"
+    },
+    {
+      "Rank": "#418",
+      "Name": "Sun Guangxin",
+      "Net Worth": "$4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "China",
+      "Age": "52"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Riley Bechtel",
+      "Net Worth": "$3.9 B",
+      "Source": "engineering, construction",
+      "Country of Citizenship": "United States",
+      "Age": "63"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Stephen Bechtel, Jr.",
+      "Net Worth": "$3.9 B",
+      "Source": "engineering, construction",
+      "Country of Citizenship": "United States",
+      "Age": "90"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Ralph Dommermuth",
+      "Net Worth": "$3.9 B",
+      "Source": "internet service provider",
+      "Country of Citizenship": "Germany",
+      "Age": "51"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Bernard Ecclestone",
+      "Net Worth": "$3.9 B",
+      "Source": "Formula One",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "85"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Nathan Kirsh",
+      "Net Worth": "$3.9 B",
+      "Source": "retail, real estate",
+      "Country of Citizenship": "Swaziland",
+      "Age": "83"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Vikram Lal",
+      "Net Worth": "$3.9 B",
+      "Source": "motorcycles",
+      "Country of Citizenship": "India",
+      "Age": "73"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Lars Larsen",
+      "Net Worth": "$3.9 B",
+      "Source": "retail",
+      "Country of Citizenship": "Denmark",
+      "Age": "67"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Ronald Lauder",
+      "Net Worth": "$3.9 B",
+      "Source": "Estee Lauder",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#435",
+      "Name": "George Lindemann",
+      "Net Worth": "$3.9 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "79"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Niels Peter Louis-Hansen",
+      "Net Worth": "$3.9 B",
+      "Source": "medical devices",
+      "Country of Citizenship": "Denmark",
+      "Age": "68"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Pankaj Patel",
+      "Net Worth": "$3.9 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "India",
+      "Age": "62"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Bernard (Barry) Sherman",
+      "Net Worth": "$3.9 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "Canada",
+      "Age": "73"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Shi Yuzhu",
+      "Net Worth": "$3.9 B",
+      "Source": "online games, investments",
+      "Country of Citizenship": "China",
+      "Age": "53"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Jeffrey Skoll",
+      "Net Worth": "$3.9 B",
+      "Source": "Ebay",
+      "Country of Citizenship": "United States",
+      "Age": "50"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Frederick Smith",
+      "Net Worth": "$3.9 B",
+      "Source": "FedEx",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Andreas von Bechtolsheim",
+      "Net Worth": "$3.9 B",
+      "Source": "Google",
+      "Country of Citizenship": "Germany",
+      "Age": "60"
+    },
+    {
+      "Rank": "#435",
+      "Name": "Wang Chuanfu",
+      "Net Worth": "$3.9 B",
+      "Source": "batteries, autos",
+      "Country of Citizenship": "China",
+      "Age": "49"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Chung Eui-Sun",
+      "Net Worth": "$3.8 B",
+      "Source": "logistics",
+      "Country of Citizenship": "South Korea",
+      "Age": "45"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Israel Englander",
+      "Net Worth": "$3.8 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "67"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Dmitry Kamenshchik",
+      "Net Worth": "$3.8 B",
+      "Source": "airport",
+      "Country of Citizenship": "Russia",
+      "Age": "47"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Bernard Marcus",
+      "Net Worth": "$3.8 B",
+      "Source": "Home Depot",
+      "Country of Citizenship": "United States",
+      "Age": "86"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Brijmohan Lall Munjal",
+      "Net Worth": "$3.8 B",
+      "Source": "motorcycles",
+      "Country of Citizenship": "India",
+      "Age": "92"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Daniel Och",
+      "Net Worth": "$3.8 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "54"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Terrence Pegula",
+      "Net Worth": "$3.8 B",
+      "Source": "natural gas",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Isaac Perlmutter",
+      "Net Worth": "$3.8 B",
+      "Source": "Marvel comics",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Krit Ratanarak",
+      "Net Worth": "$3.8 B",
+      "Source": "media, real estate",
+      "Country of Citizenship": "Thailand",
+      "Age": "69"
+    },
+    {
+      "Rank": "#452",
+      "Name": "Samuel Yin",
+      "Net Worth": "$3.8 B",
+      "Source": "diversified",
+      "Country of Citizenship": "Taiwan",
+      "Age": "65"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Vanich Chaiyawan",
+      "Net Worth": "$3.7 B",
+      "Source": "insurance, beverages",
+      "Country of Citizenship": "Thailand",
+      "Age": "83"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Francis Choi",
+      "Net Worth": "$3.7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "68"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Leon G. Cooperman",
+      "Net Worth": "$3.7 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Antonio Del Valle Ruiz",
+      "Net Worth": "$3.7 B",
+      "Source": "chemicals",
+      "Country of Citizenship": "Mexico",
+      "Age": "77"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Francisco Ivens de Sa Dias Branco",
+      "Net Worth": "$3.7 B",
+      "Source": "food production",
+      "Country of Citizenship": "Brazil",
+      "Age": "81"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Traudl Engelhorn",
+      "Net Worth": "$3.7 B",
+      "Source": "pharmaceuticals/medical equipment",
+      "Country of Citizenship": "Germany",
+      "Age": "-"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Ursula Engelhorn",
+      "Net Worth": "$3.7 B",
+      "Source": "pharmaceuticals/medical equipment",
+      "Country of Citizenship": "Germany",
+      "Age": "-"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Huang Wei",
+      "Net Worth": "$3.7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "56"
+    },
+    {
+      "Rank": "#462",
+      "Name": "James Jannard",
+      "Net Worth": "$3.7 B",
+      "Source": "sunglasses",
+      "Country of Citizenship": "United States",
+      "Age": "66"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Fredrik Lundberg",
+      "Net Worth": "$3.7 B",
+      "Source": "real estate, investments",
+      "Country of Citizenship": "Sweden",
+      "Age": "64"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Gwendolyn Sontheim Meyer",
+      "Net Worth": "$3.7 B",
+      "Source": "Cargill",
+      "Country of Citizenship": "United States",
+      "Age": "54"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Akira Mori",
+      "Net Worth": "$3.7 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Japan",
+      "Age": "79"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Theo Mueller",
+      "Net Worth": "$3.7 B",
+      "Source": "dairy",
+      "Country of Citizenship": "Germany",
+      "Age": "75"
+    },
+    {
+      "Rank": "#462",
+      "Name": "H. Ross Perot, Sr.",
+      "Net Worth": "$3.7 B",
+      "Source": "computer services, real estate",
+      "Country of Citizenship": "United States",
+      "Age": "85"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Steven Rales",
+      "Net Worth": "$3.7 B",
+      "Source": "manufacturing",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#462",
+      "Name": "John Sall",
+      "Net Worth": "$3.7 B",
+      "Source": "software",
+      "Country of Citizenship": "United States",
+      "Age": "67"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Lynn Schusterman",
+      "Net Worth": "$3.7 B",
+      "Source": "oil & gas, investments",
+      "Country of Citizenship": "United States",
+      "Age": "76"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Ronda Stryker",
+      "Net Worth": "$3.7 B",
+      "Source": "medical equipment",
+      "Country of Citizenship": "United States",
+      "Age": "61"
+    },
+    {
+      "Rank": "#462",
+      "Name": "Steven Udvar-Hazy",
+      "Net Worth": "$3.7 B",
+      "Source": "aircraft leasing",
+      "Country of Citizenship": "United States",
+      "Age": "69"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Martin & Olivier Bouygues",
+      "Net Worth": "$3.6 B",
+      "Source": "construction, media",
+      "Country of Citizenship": "France",
+      "Age": "-"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Gustavo Cisneros",
+      "Net Worth": "$3.6 B",
+      "Source": "media",
+      "Country of Citizenship": "Venezuela",
+      "Age": "70"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Jim Davis",
+      "Net Worth": "$3.6 B",
+      "Source": "New Balance",
+      "Country of Citizenship": "United States",
+      "Age": "72"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Archie Aldis Emmerson",
+      "Net Worth": "$3.6 B",
+      "Source": "timberland, lumber mills",
+      "Country of Citizenship": "United States",
+      "Age": "86"
+    },
+    {
+      "Rank": "#481",
+      "Name": "John Gandel",
+      "Net Worth": "$3.6 B",
+      "Source": "shopping malls",
+      "Country of Citizenship": "Australia",
+      "Age": "81"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Diane Hendricks",
+      "Net Worth": "$3.6 B",
+      "Source": "roofing",
+      "Country of Citizenship": "United States",
+      "Age": "68"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Antti Herlin",
+      "Net Worth": "$3.6 B",
+      "Source": "elevators, escalators",
+      "Country of Citizenship": "Finland",
+      "Age": "58"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Jeremy Jacobs, Sr.",
+      "Net Worth": "$3.6 B",
+      "Source": "sports concessions",
+      "Country of Citizenship": "United States",
+      "Age": "75"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Elizabeth Mohn",
+      "Net Worth": "$3.6 B",
+      "Source": "media",
+      "Country of Citizenship": "Germany",
+      "Age": "74"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Igor Olenicoff",
+      "Net Worth": "$3.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Anthony Pratt",
+      "Net Worth": "$3.6 B",
+      "Source": "manufacturing",
+      "Country of Citizenship": "Australia",
+      "Age": "55"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Qiu Guanghe",
+      "Net Worth": "$3.6 B",
+      "Source": "apparel retail",
+      "Country of Citizenship": "China",
+      "Age": "64"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Walter Scott, Jr.",
+      "Net Worth": "$3.6 B",
+      "Source": "utilities, telecom",
+      "Country of Citizenship": "United States",
+      "Age": "84"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Sheldon Solow",
+      "Net Worth": "$3.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "United States",
+      "Age": "87"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Steven Spielberg",
+      "Net Worth": "$3.6 B",
+      "Source": "Movies",
+      "Country of Citizenship": "United States",
+      "Age": "68"
+    },
+    {
+      "Rank": "#481",
+      "Name": "Yitzhak Tshuva",
+      "Net Worth": "$3.6 B",
+      "Source": "real estate",
+      "Country of Citizenship": "Israel",
+      "Age": "67"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Mohammed Al Issa",
+      "Net Worth": "$3.5 B",
+      "Source": "investments",
+      "Country of Citizenship": "Saudi Arabia",
+      "Age": "90"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Rahel Blocher",
+      "Net Worth": "$3.5 B",
+      "Source": "chemicals",
+      "Country of Citizenship": "Switzerland",
+      "Age": "39"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Chey Tae-Won",
+      "Net Worth": "$3.5 B",
+      "Source": "computer services/telecoms",
+      "Country of Citizenship": "South Korea",
+      "Age": "54"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Edward DeBartolo, Jr.",
+      "Net Worth": "$3.5 B",
+      "Source": "shopping centers",
+      "Country of Citizenship": "United States",
+      "Age": "69"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Andrei Guriev",
+      "Net Worth": "$3.5 B",
+      "Source": "fertilizers",
+      "Country of Citizenship": "Russia",
+      "Age": "55"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Ingvar Kamprad",
+      "Net Worth": "$3.5 B",
+      "Source": "Ikea",
+      "Country of Citizenship": "Sweden",
+      "Age": "89"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Iskander Makhmudov",
+      "Net Worth": "$3.5 B",
+      "Source": "mining, metals, machinery",
+      "Country of Citizenship": "Russia",
+      "Age": "51"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Alain Merieux",
+      "Net Worth": "$3.5 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "France",
+      "Age": "77"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Pan Zhengmin",
+      "Net Worth": "$3.5 B",
+      "Source": "electronics",
+      "Country of Citizenship": "China",
+      "Age": "45"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Michael Platt",
+      "Net Worth": "$3.5 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United Kingdom",
+      "Age": "47"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Viktor Rashnikov",
+      "Net Worth": "$3.5 B",
+      "Source": "steel",
+      "Country of Citizenship": "Russia",
+      "Age": "67"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Haim Saban",
+      "Net Worth": "$3.5 B",
+      "Source": "TV network, investments",
+      "Country of Citizenship": "United States",
+      "Age": "71"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Beny Steinmetz",
+      "Net Worth": "$3.5 B",
+      "Source": "mining, diamonds, real estate",
+      "Country of Citizenship": "Israel",
+      "Age": "59"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Martin Viessmann",
+      "Net Worth": "$3.5 B",
+      "Source": "heating equipment",
+      "Country of Citizenship": "Germany",
+      "Age": "62"
+    },
+    {
+      "Rank": "#497",
+      "Name": "Zhang Changhong",
+      "Net Worth": "$3.5 B",
+      "Source": "finance information service",
+      "Country of Citizenship": "China",
+      "Age": "57"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Brian Acton",
+      "Net Worth": "$3.4 B",
+      "Source": "WhatsApp",
+      "Country of Citizenship": "United States",
+      "Age": "43"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Saif Al Ghurair",
+      "Net Worth": "$3.4 B",
+      "Source": "diversified",
+      "Country of Citizenship": "United Arab Emirates",
+      "Age": "-"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Marc Benioff",
+      "Net Worth": "$3.4 B",
+      "Source": "business software",
+      "Country of Citizenship": "United States",
+      "Age": "51"
+    },
+    {
+      "Rank": "#512",
+      "Name": "John Doerr",
+      "Net Worth": "$3.4 B",
+      "Source": "venture capital",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Walter Faria",
+      "Net Worth": "$3.4 B",
+      "Source": "beer",
+      "Country of Citizenship": "Brazil",
+      "Age": "60"
+    },
+    {
+      "Rank": "#512",
+      "Name": "David Filo",
+      "Net Worth": "$3.4 B",
+      "Source": "Yahoo",
+      "Country of Citizenship": "United States",
+      "Age": "49"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Christa Gelpke",
+      "Net Worth": "$3.4 B",
+      "Source": "pharmaceuticals",
+      "Country of Citizenship": "Germany",
+      "Age": "-"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Masatoshi Ito",
+      "Net Worth": "$3.4 B",
+      "Source": "retail",
+      "Country of Citizenship": "Japan",
+      "Age": "91"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Erich Kellerhals",
+      "Net Worth": "$3.4 B",
+      "Source": "electronics retailer",
+      "Country of Citizenship": "Germany",
+      "Age": "76"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Suleiman Kerimov",
+      "Net Worth": "$3.4 B",
+      "Source": "investments",
+      "Country of Citizenship": "Russia",
+      "Age": "49"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Mangal Prabhat Lodha",
+      "Net Worth": "$3.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "India",
+      "Age": "59"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Magdalena Martullo-Blocher",
+      "Net Worth": "$3.4 B",
+      "Source": "chemicals",
+      "Country of Citizenship": "Switzerland",
+      "Age": "46"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Clayton Mathile",
+      "Net Worth": "$3.4 B",
+      "Source": "pet food",
+      "Country of Citizenship": "United States",
+      "Age": "74"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Anthony Pritzker",
+      "Net Worth": "$3.4 B",
+      "Source": "hotels, investments",
+      "Country of Citizenship": "United States",
+      "Age": "54"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Jay Robert (J.B.) Pritzker",
+      "Net Worth": "$3.4 B",
+      "Source": "hotels, investments",
+      "Country of Citizenship": "United States",
+      "Age": "50"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Julian Robertson, Jr.",
+      "Net Worth": "$3.4 B",
+      "Source": "hedge funds",
+      "Country of Citizenship": "United States",
+      "Age": "83"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Kushal Pal Singh",
+      "Net Worth": "$3.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "India",
+      "Age": "84"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Chee Chen Tung",
+      "Net Worth": "$3.4 B",
+      "Source": "shipping",
+      "Country of Citizenship": "Hong Kong",
+      "Age": "73"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Wu Yajun",
+      "Net Worth": "$3.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "51"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Steve Wynn",
+      "Net Worth": "$3.4 B",
+      "Source": "casinos, hotels",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#512",
+      "Name": "Zhang Xin",
+      "Net Worth": "$3.4 B",
+      "Source": "real estate",
+      "Country of Citizenship": "China",
+      "Age": "50"
+    },
+    {
+      "Rank": "#533",
+      "Name": "Heinz-Georg Baus",
+      "Net Worth": "$3.4 B",
+      "Source": "home improvement stores",
+      "Country of Citizenship": "Germany",
+      "Age": "81"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Austen Cargill, II.",
+      "Net Worth": "$3.3 B",
+      "Source": "Cargill",
+      "Country of Citizenship": "United States",
+      "Age": "64"
+    },
+    {
+      "Rank": "#534",
+      "Name": "James Cargill, II.",
+      "Net Worth": "$3.3 B",
+      "Source": "Cargill",
+      "Country of Citizenship": "United States",
+      "Age": "66"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Isabel dos Santos",
+      "Net Worth": "$3.3 B",
+      "Source": "investments",
+      "Country of Citizenship": "Angola",
+      "Age": "42"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Juan Carlos Escotet",
+      "Net Worth": "$3.3 B",
+      "Source": "banking",
+      "Country of Citizenship": "Venezuela",
+      "Age": "56"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Dan Friedkin",
+      "Net Worth": "$3.3 B",
+      "Source": "Toyota dealerships",
+      "Country of Citizenship": "United States",
+      "Age": "50"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Jiang Bin",
+      "Net Worth": "$3.3 B",
+      "Source": "acoustic components",
+      "Country of Citizenship": "China",
+      "Age": "49"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Daryl Katz",
+      "Net Worth": "$3.3 B",
+      "Source": "pharmacies",
+      "Country of Citizenship": "Canada",
+      "Age": "54"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Peter Kellogg",
+      "Net Worth": "$3.3 B",
+      "Source": "investments",
+      "Country of Citizenship": "United States",
+      "Age": "73"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Li Zhongchu",
+      "Net Worth": "$3.3 B",
+      "Source": "software",
+      "Country of Citizenship": "China",
+      "Age": "52"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Marianne Liebmann",
+      "Net Worth": "$3.3 B",
+      "Source": "Cargill",
+      "Country of Citizenship": "United States",
+      "Age": "62"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Najib Mikati",
+      "Net Worth": "$3.3 B",
+      "Source": "telecom",
+      "Country of Citizenship": "Lebanon",
+      "Age": "59"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Taha Mikati",
+      "Net Worth": "$3.3 B",
+      "Source": "telecom",
+      "Country of Citizenship": "Lebanon",
+      "Age": "70"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Masahiro Miki",
+      "Net Worth": "$3.3 B",
+      "Source": "retail",
+      "Country of Citizenship": "Japan",
+      "Age": "60"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Shigenobu Nagamori",
+      "Net Worth": "$3.3 B",
+      "Source": "motors",
+      "Country of Citizenship": "Japan",
+      "Age": "71"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Axel Oberwelland",
+      "Net Worth": "$3.3 B",
+      "Source": "candy",
+      "Country of Citizenship": "Germany",
+      "Age": "48"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Pang Kang",
+      "Net Worth": "$3.3 B",
+      "Source": "soy sauce maker",
+      "Country of Citizenship": "China",
+      "Age": "59"
+    },
+    {
+      "Rank": "#534",
+      "Name": "Michael Pieper",
+      "Net Worth": "$3.3 B",
+      "Source": "kitchen appliances",
+      "Country of Citizenship": "Switzerland",
+      "Age": "69"
+    }
+  ]
+}
